@@ -1,0 +1,15 @@
+Paint Name= Reflection of a  House
+Artist Name= Leonidas Zavaleta
+From= Andes
+Price= $894.95
+80.6"W x 41.2"H
+waight= 1.7lbs
+
+Description=
+Warmth radiates from the center of this 
+dreamlike canvas by Leonidas Zavaleta. 
+Enveloped in clouds is a small house high 
+on a mountaintop. It seems to sway, gently 
+rocked to the lullaby of the wind. 
+
+Titled "Reflejo de una casa" in Spanish.

@@ -1,0 +1,13 @@
+Paint Name= The Mall
+Artist Name= Sunil Jaiswal
+From= India
+Price= $869.95
+26.0"W x 26.0"H
+Weight= o.4lbs
+
+Description=
+"We have become slaves to modernity,"
+ comments Sunil Jaiswal as he paints 
+of people in a busy mall. They have now 
+become permanent fixtures within the architecture. 
+Painting with oils, Jaiswal effectively conveys a sense of chaotic energy.

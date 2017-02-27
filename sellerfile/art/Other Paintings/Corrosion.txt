@@ -1,0 +1,14 @@
+Paint Name= Corrosion
+Artist Name= Vera Lemos
+From= Brazil
+Price= $309.95
+23.6"H x 31.5"W x 0.8"D
+Weight= 3.5 lbs
+
+Description=
+Assorted objects of iron cluster in a composition of pleasing geometry. 
+Backed by a cloudy sky, they seem caressed by light. Working with a palette 
+of brown, gold and rust, Vera Lemos finds beauty in each piece. "Just as art
+ does, iron resists time despite the process of corrosion," she says.
+
+Titled "Corrosão " in Portuguese.

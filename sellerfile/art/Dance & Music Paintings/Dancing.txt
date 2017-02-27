@@ -1,0 +1,14 @@
+Paint Name= Dancing
+Artist Name= Teodoro Reque Liza
+From= Andes
+Price= $1344.95
+47.2"W x 29.5"H
+Weight= 1.2 lbs
+
+Description=
+Poised in the spotlight, dancers rise and gracefully twirl. The ballerinas are 
+wreathed in the sheerest of tulle, each ethereal woman absorbed in her 
+performance. With a realism that tends toward abstraction, Teodoro Reque
+ pays tribute to classic ballet. 
+
+This radiant and lyrical work of art is titled "Danzando" in Spanish.

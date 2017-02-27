@@ -1,0 +1,14 @@
+Paint Name='Happy Ganesha'
+Artist Name=Sunil Jaiswal
+From=India
+Price=$ 449.95
+18.1"W x 18.1"H
+weight= 1.3 lbs
+
+Description=
+Ganesha appears like a vision on a sunset sky, 
+its warm colors reassuring of the deity's benevolent 
+heart. As the mystical Remover of Obstacles and Lord 
+of Knowledge, Ganesha is a much beloved deity from the 
+Hindu pantheon. Painting with oils, Sunil Jaiswal depicts 
+Ganesha holding a cup with his favorite dessert.

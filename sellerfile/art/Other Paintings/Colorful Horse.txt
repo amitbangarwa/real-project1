@@ -1,0 +1,14 @@
+Paint Name= Colorful Horse
+Artist Name= Ricardo Siccuro
+From= Brazil
+Price= $874.95
+43.3"W x 31.5"H
+Weight= 1.1 lbs
+
+Description=
+Thundering hooves gallop across the scene as sinuous muscles take shape in 
+multicolored ribbons. Ricardo Siccuro creates an almost surreal image, 
+realistic yet imaginary. The proud steed prances across a shadowy background 
+in a playful work of art. 
+
+Titled "Cavalo colorido" in Portuguese.

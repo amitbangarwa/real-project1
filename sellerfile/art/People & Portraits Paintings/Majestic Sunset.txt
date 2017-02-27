@@ -1,0 +1,12 @@
+Paint Name= Majestic Sunset
+Artist Name= Nand Kisore
+From= India
+Price= $47.95
+8.3"W x 10.2"H
+Weight= 1.41
+
+Description=
+As the sun sets on the majestic city of Jaipur, a young princess
+ tries to capture the beautiful scenery on paper. She is clad in
+ the exquisite traditional attire of bygone days. Nand Kisore paints
+ this nostalgic portrait.

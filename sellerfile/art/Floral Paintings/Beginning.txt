@@ -1,0 +1,12 @@
+Paint Name= Beginning
+Artist Name= Nitaya Tamwong
+From= Thailand
+Price= $1492.95
+31.9"H x 39.4"W x 1.8"D
+Weight= 6.7 lbs
+
+Description=
+Framed by rustling leaves, banana blossoms give way to a stalk of golden fruit.
+ Nitaya Tamwong captures a beautiful image of Thailand. During its cycle,
+ the plant feeds insects, birds and eventually mammals. Thus the artist 
+explores the beginning of elements to support all kinds of life.

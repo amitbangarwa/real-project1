@@ -1,0 +1,14 @@
+if($rsitem== "true")
+{
+$pid=$rsitem->pid;
+$date=$rsitem->date;
+
+$sql1="select * from gallery where picid='$pid'";
+$rs1=mysql_query($sql1,$cn);
+echo'<table border="0" cellpadding="2" cellspacing="0" width="100%">';
+echo'<tbody><tr>';
+echo'<td class="main" align="left"><b>Artist Name</b></td><td class="main"><b>Paint name</b></td><td class="main"><b>Product(s)</b></td><td class="main" align="right"><b>Price</b></td><td class="main" align="right"><b>Date of Purches</b></td></tr>';
+while($rsitem1=mysql_fetch_object($rs1))
+{
+echo'<tr><td class="main"><b>$rsitem1->artistname</b></td><td class="main"><b>$rsitem1->picname</b></td><td><img src="art/$rsitem1->img_name" alt="$rsitem1->picname" title=" $rsitem1->picname " border="0" width="120" height="90"></td><td class="main" align="right"><b>$ $rsitem1->price</b></td><td class="main" align="right"><b>$date</b></td></tr>';
+}

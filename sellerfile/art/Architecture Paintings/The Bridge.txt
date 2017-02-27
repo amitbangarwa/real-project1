@@ -1,0 +1,13 @@
+Paint Name= The Bridge
+Artist Name= Luiza Kemp
+From= Brazil
+Price= $332.95
+15.8"W x 19.7"W x 1.4"D
+Weight= 1.5lbs
+
+Description=
+Florianopolis is a favorite theme for artist Luiza Kemp.
+ This beautiful work depicts the bridge leading to the 
+island in southern Brazil. She begins with original photographs
+ cut in strips and arranged to create the sensation of movement.
+ They form the basis for a composition in acrylics on canvas.

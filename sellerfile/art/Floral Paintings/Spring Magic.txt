@@ -1,0 +1,13 @@
+Paint Name= Spring Magic
+Artist Name= Nand Kisore
+From= India
+Price= $39.95
+7.9"W x 11.0"H
+Weight= 0.71 lbs
+
+Description=
+Colorful flowers come to life in the magic atmosphere of spring.
+ Delightfully detailed, the blossoms' beauty prolongs the season 
+of new life all year long. Nand Kisore creates a pair of miniature 
+paintings in the traditional style of India. Miniature refers to the 
+details rather than to the size of the paintings.

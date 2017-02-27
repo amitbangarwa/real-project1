@@ -1,0 +1,17 @@
+Paint Name= San Juan Diego
+Artist Name= Jose Ponce de Leon
+From= Andes
+Price= $387.95
+31.1"W x 47.2"H
+Weight= 0.7 lbs
+
+Description=
+Juan Diego opens his cloak to reveal the Virgin of Guadalupe.
+ She first appeared in Mexico in 1531 to this new saint. As proof of her visit,
+ she caused roses to bloom at the site. Because church leaders did not 
+believe he had seen her, she instructed him to gather a bouquet in his cloak,
+ or tilma, and take them back with him. When the bishops opened the cloak,
+ the Virgin's portrait appeared. The original tilma is on display in her 
+Basilica in Mexico City. 
+
+"Juan Diego is a model of humility for us all," says the artist.

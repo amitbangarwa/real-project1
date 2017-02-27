@@ -1,0 +1,15 @@
+Paint Name= Front of My House
+Artist Name= Julio Cuyro Ccahua
+From= Andes
+Price= $879.95
+47.2"W x 31.5"H
+Weight= 1.7lbs
+
+Description=
+"This painting reflects my fondest memories and experiences,"
+ says Julio Cuyro Ccahua as he shares this very personal composition.
+ "This is the house where I was born, where I grew up, ran, and now live.
+ It's the front part of my house, tranquil and beautiful. It's humble,
+ but it's happy and cheerful, it truly is home. " 
+
+Titled "Frontis de mi casa" in Spanish.

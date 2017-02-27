@@ -1,0 +1,12 @@
+Paint Name= Sea View III
+Artist Name= Ketut Sundra
+From= Bali and Java
+Price= $2099.95
+39.4"W x 27.6"H
+Weight= 0.9 lbs
+
+Description=
+Tumbling rhythmically to shore, gentle waves wash the sandy beach with 
+sensations of peace, as the herons catch small fish. Ketut Sundra creates 
+an enchanted vision of Bali, where mountain and hills can be seen in the 
+distance, and palm trees reach toward a sky caressed with clouds.

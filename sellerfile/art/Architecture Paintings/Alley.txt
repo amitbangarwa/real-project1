@@ -1,0 +1,16 @@
+Paint Name= Alley
+Artist Name= Kenneth Hurtado
+From= Andes
+Price= $624.95 
+46.8"W x 35.3"H
+Weight= 1.9lbs
+
+Description=
+A narrow alley winds up and down a hilly village 
+conjured by Peruvian artist Kenneth Hurtado. 
+"I was inspired by the villages in the Andean sierra that
+ are built with a mixture of local and Colonial architectural styles,
+" says Hurtado of his inspiration. Painting with oils, he uses modeling
+ paste to add an admirable textural dimension to his composition. 
+
+Titled "Callejuela" in Spanish.

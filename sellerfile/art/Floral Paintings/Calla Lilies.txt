@@ -1,0 +1,13 @@
+Paint Name= Calla Lilies
+Artist Name= Mariana Gonzalez
+From= Mexico
+Price= $382.46
+31.5"H x 39.4"W x 1.8"D
+Weight= 5.5 lbs
+
+Description=
+Emerald stalks and leaves surround the velvety petals of calla lilies to 
+create a bouquet of inspired beauty. Mexico's Mariana González achieves 
+admirable realism as she paints with acrylics on canvas. 
+
+Titled "Alcatraces" in Spanish.

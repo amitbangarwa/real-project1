@@ -1,0 +1,13 @@
+Paint Name= Tiger
+Artist Name= Arruda Camara
+From= Brazil
+Price= $1079.95
+39.4"W x 27.6"H
+Weight= 0.9lbs
+
+Description=
+At rest, a tiger is nonetheless alert. Arruda Camara depicts the great 
+cat with its sleek golden coat and white ruff as it gazes just past the 
+viewer. Limpid, golden eyes seem nostalgic in this superb tribute to nature. 
+
+Titled "Tigre" in Portuguese.

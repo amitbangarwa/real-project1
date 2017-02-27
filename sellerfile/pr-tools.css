@@ -1,0 +1,36 @@
+.switch {
+	CURSOR: pointer;
+}
+.maximized .expand {
+	DISPLAY: none;
+	CURSOR: pointer;
+}
+.maximized .collapse {
+	DISPLAY: inline;
+	CURSOR: pointer;
+}
+.maximized .curtain {
+	DISPLAY: block;
+	CURSOR: pointer;
+}
+.minimized .expand {
+	DISPLAY: inline;
+	CURSOR: pointer;
+}
+.minimized .collapse {
+	DISPLAY: none;
+	CURSOR: pointer;
+	
+}
+.minimized .curtain {
+	DISPLAY: none;
+	CURSOR: pointer;
+}
+.toggleBox .case1 {
+	DISPLAY: block;
+	CURSOR: pointer;
+}
+.toggleBox .case2 {
+	DISPLAY: none;
+	CURSOR: pointer;
+}
